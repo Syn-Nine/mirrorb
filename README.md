@@ -1,5 +1,5 @@
 # mirr/orb
-Bouncing laser puzzle game made in Rust
+Laser bouncing puzzle game made in Rust
 
 ![](https://github.com/Syn-Nine/mirrorb/blob/main/assets/logo.png)
 
