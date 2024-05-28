@@ -8,3 +8,5 @@ Laser bouncing puzzle game made in Rust
 ![](https://github.com/Syn-Nine/mirrorb/blob/main/assets/help.png)
 
 Thanks for playing!
+
+Pre-build Windows binary can be found here: http://mirrorb.io
