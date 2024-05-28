@@ -9,4 +9,4 @@ Laser bouncing puzzle game made in Rust
 
 Thanks for playing!
 
-Pre-build Windows binary can be found here: http://mirrorb.io
+Pre-built Windows binary can be found here: http://mirrorb.io
